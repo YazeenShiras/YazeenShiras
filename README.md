@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammed Yaseen.
 - 👀 I’m interested in coding, and designing
-- 🌱 I’m currently learning front-end development
+- 💻 I’m currently working as front-end developer
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 Reach me at inyazn.web.app
